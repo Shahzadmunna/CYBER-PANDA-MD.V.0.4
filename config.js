@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
-global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
-global.author = "KUSHAN";                               //Do not change.
+global.Owner = ["+923442392492", "+92344239249"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923442392492", "+923442392492"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+923442392492"];
+global.OwnerName = "SHAHZAD";
+global.BotName = "MUNNA";
+global.packname = "🦋 MUNNA RAJPUT 🦋";                             //Do not change.
+global.author = "MUNNA";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -46,7 +46,7 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "kushan";
+global.lolhuman = "SHAHZAD";
 
 
 //
